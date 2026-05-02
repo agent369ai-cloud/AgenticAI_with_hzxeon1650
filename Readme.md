@@ -48,7 +48,6 @@ calculator-agent/
 ├── run.py                    # CLI runner
 └── README.md
 
-
 ###########################################################  GenAI App Flow ######################
 User → run.py → main.py
                   ↓
