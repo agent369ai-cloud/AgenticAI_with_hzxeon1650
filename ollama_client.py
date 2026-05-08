@@ -1,5 +1,0 @@
-from langchain_community.llms import Ollama
-from app.config import MODEL_NAME
-
-def get_llm():
-    return Ollama(model=MODEL_NAME)
